@@ -55,7 +55,7 @@ switchport mode access
 switchport access vlan 4
 exit
 ```
-3. Настроить порт подключения на роутере с помощью команд:
+3. Настроить порт подключения коммутатора к роутеру с помощью команд:
 ```
 int fa0/1
 switchport mode trunk
