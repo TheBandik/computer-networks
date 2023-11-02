@@ -33,6 +33,10 @@
 
 ##### [Лекция №6](sem1/lecs/lec6.pdf)
 
-#### DNS и DHCP
+#### DNS
 
 ##### [Лекция №7](sem1/lecs/lec7.md)
+
+#### DHCP
+
+##### [Лекция №8](sem1/lecs/lec8.pdf)
